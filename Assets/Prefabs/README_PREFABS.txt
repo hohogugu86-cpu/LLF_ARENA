@@ -1,0 +1,1 @@
+Create 3D prefabs: Player (CharacterController), Enemy (with health), Boss, Coin. Assign in scenes and GameManager.
