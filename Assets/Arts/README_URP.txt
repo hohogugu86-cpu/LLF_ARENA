@@ -1,0 +1,1 @@
+This template expects URP package. After opening in Unity, create a UniversalRenderPipelineAsset and assign it in Graphics settings.
