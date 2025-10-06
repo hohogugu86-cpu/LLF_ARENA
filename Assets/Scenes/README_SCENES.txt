@@ -1,0 +1,1 @@
+Create scenes: MainMenu.unity, MainArena.unity, GameOver.unity in Unity Editor. Place managers and prefabs as described in README_CLOUD.txt.
